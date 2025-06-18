@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86121734209",
+    "project_id": "faculty-tracker-30135",
+    "storage_bucket": "faculty-tracker-30135.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86121734209:android:151f5e162a4ffd76aee6c0",
+        "android_client_info": {
+          "package_name": "com.example.facultytracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtHu-uYfEUsDYSWPEvJO6b2ktIM9ERC4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
