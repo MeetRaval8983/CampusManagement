@@ -1,0 +1,14 @@
+CampusManagement - Admin App License
+Copyright (c) 2025 Meet Raval
+
+All rights reserved.
+
+This software is proprietary and confidential. Unauthorized copying of this file, via any medium, is strictly prohibited.
+
+The source code and any associated documentation files are the intellectual property of Meet Raval.
+
+Redistribution, modification, use, or commercial deployment of this project, in part or full, is strictly prohibited without explicit, written permission from the author.
+
+Patent pending.
+
+For inquiries, contact: [your email]
